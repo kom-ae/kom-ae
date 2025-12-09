@@ -1,5 +1,22 @@
-## Всем привет 👋 !!! Мое имя Александр.
+## Всем привет 👋
 
+Я Python Backend разработчик.
+
+Мой стэк технологий:
+- Python
+- Django Framework
+- Django REST Framework
+- Flask
+- FastAPI
+- SQLAlchemy
+- Alembic
+- Docker
+- Docker Compose
+- CI/CD GitHub Actions
+- Scrapy
+- SQLite, PostgreSQL
+
+Программирование стало для меня не просто увлечением, а направлением, в котором я намерен профессионально развиваться.
 <!--
 **kom-ae/kom-ae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
